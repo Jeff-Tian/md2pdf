@@ -8,7 +8,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "codemirror": "^5.45.0",
+    "codemirror": "^6.0.0",
     "create-event-target-hook": "^1.2.2",
     "github-markdown-css": "3.0.1",
     "highlight.js": "9.15.8",
